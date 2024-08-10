@@ -50,6 +50,7 @@ CREATE TABLE `users` (
   `trn_date` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
 --
 -- Indexes for dumped tables
 --
