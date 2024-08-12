@@ -136,6 +136,7 @@ if (isset($_GET['delete'])) {
         </div>
         <!-- /#sidebar-wrapper -->
 
+        
         <!-- Page Content -->
         <div id="page-content-wrapper">
 
