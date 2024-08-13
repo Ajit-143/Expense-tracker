@@ -142,6 +142,7 @@ $exp_fetched = mysqli_query($con, "SELECT * FROM expenses WHERE user_id = '$user
             e.preventDefault();
             $("#wrapper").toggleClass("toggled");
         });
+        
     </script>
     <script>
         feather.replace()
