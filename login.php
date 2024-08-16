@@ -131,6 +131,7 @@ body {
     <p class="text-center">Don't have an account?<a href="register.php" class="text-danger"> Register Here</a></p>
   </div>
 </body>
+  
 <!-- Bootstrap core JavaScript -->
 <script src="js/jquery.slim.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
