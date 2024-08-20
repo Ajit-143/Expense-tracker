@@ -229,6 +229,7 @@ if (isset($_POST['but_upload'])) {
                 readURL(this);
             });
         });
+        
     </script>
 
 </body>
