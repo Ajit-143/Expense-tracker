@@ -77,6 +77,7 @@ if (isset($_POST['but_upload'])) {
                 <h5><?php echo $username ?></h5>
                 <p><?php echo $useremail ?></p>
             </div>
+
             <div class="sidebar-heading">Management</div>
             <div class="list-group list-group-flush">
                 <a href="index.php" class="list-group-item list-group-item-action"><span data-feather="home"></span> Dashboard</a>
