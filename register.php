@@ -191,6 +191,7 @@ body {
     <div class="text-center">Already have an account? <a class="text-success" href="login.php">Login Here</a></div>
   </div>
 </body>
+  
 <!-- Bootstrap core JavaScript -->
 <script src="js/jquery.slim.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
