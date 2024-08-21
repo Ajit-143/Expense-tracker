@@ -1,6 +1,7 @@
 <?php
 require('config.php');
 if (isset($_REQUEST['firstname'])) {
+  
   if ($_REQUEST['password'] == $_REQUEST['confirm_password']) {
     $firstname = stripslashes($_REQUEST['firstname']);
     $firstname = mysqli_real_escape_string($con, $firstname);
