@@ -20,6 +20,7 @@ if ($result->num_rows > 0) {
     $useremail=$row["email"];
     $userprofile="uploads/".$row["profile_path"];
   }
+  
 } else {
     $userid="GHX1Y2";
     $username ="Jhon Doe";
