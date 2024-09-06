@@ -133,6 +133,7 @@ $exp_fetched = mysqli_query($con, "SELECT * FROM expenses WHERE user_id = '$user
     <!-- /#wrapper -->
 
     <!-- Bootstrap core JavaScript -->
+
     <script src="js/jquery.slim.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/Chart.min.js"></script>
